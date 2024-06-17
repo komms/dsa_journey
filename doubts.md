@@ -108,3 +108,16 @@ Did not understand the above code.
 n = 210
 print(Prime_Factorial(n))
 
+16. for i in range(1, min(num1, num2)): did not understand why they have given the min keyword instead of max as we are finding the hcf.
+
+17. if i % num1 == i % num2 == 0: did not get this.
+
+18. decimal_val = decimal_val+ rem * base why do we have to use decimal_val in the right hand side but it is already defined as o at the start in binary to decimal problem.
+
+19. What are octal numbers.
+
+20. hexadecimal to decimal is not understood so not gone through it. Have to go through it.
+
+21. binary.append(decimal%2) what is the underlying operation of it
+
+
